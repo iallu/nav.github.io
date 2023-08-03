@@ -2,9 +2,9 @@
 - taxonomy: 主站推荐
   icon: far fa-star
   links:
-    - title: 小A猪崽
+    - title: 洞见AI
       logo: xazz.ico
-      url: https://nav.xazz.top
+      url: https://nav.insightai.top
       description: 丰富的导航站
     - title: 博客
       logo: 博客.ico
@@ -18,7 +18,7 @@
     - title: 文档库
       logo: doks.ico
       url: https://doks.xazz.top
-      description: 小A猪崽的文档库
+      description: 洞见AI的文档库
     - title: 探针
       logo: 探针.svg
       url: https://vps.xazz.top/
