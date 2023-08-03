@@ -2,9 +2,9 @@
 - taxonomy: 主站推荐
   icon: far fa-star
   links:
-    - title: 小A猪崽
+    - title: 洞见Ai
       logo: xazz.ico
-      url: https://nav.xazz.top
+      url: https://nav.insightai.top
       description: 丰富的导航站
     - title: 博客
       logo: 博客.ico
@@ -18,7 +18,7 @@
     - title: 文档库
       logo: doks.ico
       url: https://doks.xazz.top
-      description: 小A猪崽的文档库
+      description: 洞见Ai的文档库
     - title: 探针
       logo: 探针.svg
       url: https://vps.xazz.top/
@@ -700,103 +700,3 @@
           url: https://www.tampermonkey.net/
           logo: youhou.ico
           description: 一款多装多种丰富插件的扩展
-
-- taxonomy: ChatGPT
-  icon: fas fa-robot fa-lg
-  list:
-    - term: AI应用
-      links:
-        - title: Newzone
-          url: https://ai.newzone.top/
-          logo: newzone.ico
-          description: ChatGPT提示词收集
-        - title: Mirai
-          url: https://mirai.mamoe.net/
-          logo: mirai.ico
-          description: QQ开源机器人框架
-        - title: 秘塔
-          url: https://xiezuocat.com/
-          logo: mita.ico
-          description: 秘塔写作猫，帮助文案编写
-        - title: ChatPDF
-          url: https://www.chatpdf.com/
-          logo: chatpdf.ico
-          description: Ai识别PDF内容并且发起对话
-        - title: Huggingface
-          url: https://huggingface.co/spaces/stabilityai/stable-diffusion
-          logo: hugging.svg
-          description: stable-diffusion-webui-2.1
-        - title: Webui-colab
-          url: https://github.com/camenduru/stable-diffusion-webui-colab
-          logo: colab.ico
-          description: stable-diffusion-webui谷歌云部署
-        - title: Civitai
-          url: https://civitai.com/
-          logo: civitai.ico
-          description: Ai绘画训练模型
-        - title: Picrew
-          url: https://picrew.me/en
-          logo: picrew.ico
-          description: Ai画头像
-        - title: BibiGPT
-          url: https://b.jimmylv.cn/
-          logo: bibigpt.ico
-          description: Ai一键总结视频内容
-        - title: 图片放大
-          url: https://bigjpg.com/
-          logo: bigjpg.ico
-          description: Ai智能图片放大
-        - title: 高清修复
-          url: https://jpghd.com/
-          logo: jpghd.ico
-          description: Ai高清修复图片
-        - title: Mindshow
-          url: https://mindshow.fun/
-          logo: mindshow.svg
-          description: 导入markdown结合chatgpt写作PPT
-        - title: lalal
-          url: https://www.lalal.ai/
-          logo: lalal.ico
-          description: 智能人声与音乐分离
-        - title: Vega Ai
-          url: https://rightbrain.art/
-          logo: vega.ico
-          description: AI图像生成AI创作
-        - title: Booltool
-          url: https://booltool.boolv.tech/
-          logo: booltool.ico
-          description: 智能处理图像/视频处理
-
-- taxonomy: Docker
-  icon: fab fa-docker fa-lg
-  list:
-    - term: Docker
-      links:
-        - title: 恩山论坛
-          url: https://www.right.com.cn/forum/
-          logo: enshan.ico
-          description: 中文IT技术交流社区
-        - title: 软路由固件
-          url: https://supes.top
-          logo: gujian.ico
-          description: OpenWrt可刷docker定制固件
-        - title: 骷髅头固件
-          url: https://github.com/DHDAXCW/NanoPi-R2S-rk3328
-          logo: kuloutou.ico
-          description: 推荐使用骷髅头固件刷docker。R2s可用
-        - title: docker加速
-          url: https://dockerproxy.com/
-          logo: docker加速.ico
-          description: 解决无法拉取docker镜像问题
-        - title: dockerhub
-          url: https://hub.docker.com/
-          logo: dockerhub.ico
-          description: docker镜像拉取网址
-        - title: 青龙面板
-          url: https://hub.docker.com/r/whyour/qinglong
-          logo: qinglong.ico
-          description: docker部署青龙面板
-        - title: Halo博客
-          url: https://hub.docker.com/r/halohub/halo
-          logo: halo.ico
-          description: halo博客，强大的前后端结合
