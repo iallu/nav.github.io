@@ -93,4 +93,4 @@ publishDir = "docs" # 站点静态文件保存目录
 
 # 网站页脚相关的内容设置
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯权益，请联系站长删除相关内容，联系邮箱：mail@insightai.top <br/><br/><span id="RunTime" style="color:#FC4E27;letter-spacing:2px"></span><br/><br/>&copy; 2023 - <br/>'
+    copyright = '本站内容源自互联网，如有内容侵犯权益，请联系站长删除相关内容，联系邮箱：mail@insightai.top <br/><br/><span id="RunTime" style="color:#FC4E27;letter-spacing:2px"></span><br/><br/>&copy; 2023 -2023 <br/>'
