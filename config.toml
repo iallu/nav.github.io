@@ -10,10 +10,10 @@ publishDir            = "docs"					# 站点静态文件保存目录
 
 [params]
     author        = "ikirito"
-    description   = "洞见AI | Hugo WebStack BY ikirito"
+    description   = "洞见AI | 看得见的书签导航"
     upload        = "#"  # 左侧导航栏的"网站提交"
-    about         = "https://github.com/shenweiyan/WebStack-Hugo"	# 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://github.com/i-kirito"  
+    about         = "https://nav.insightai.top"	# 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://nav.insightai.top"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "洞见AI"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					# 默认展开左侧边导航栏
