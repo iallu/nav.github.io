@@ -31,13 +31,13 @@ publishDir = "docs" # 站点静态文件保存目录
     description = "洞见Ai | Hugo WebStack BY ikirito"
 
     # 网站上传链接（注销）
-    upload = "https://wj.qq.com/s2/12053817/3264/" # 左侧导航栏的"网站提交"
+    # upload = "https://wj.qq.com/s2/12053817/3264/" # 左侧导航栏的"网站提交"
 
     # 关于页面链接（注销）
-    about = "https://doks.xazz.top/" # 左侧导航栏的"关于导航"页面(./about)
+    # about = "https://doks.xazz.top/" # 左侧导航栏的"关于导航"页面(./about)
 
     # 代码仓库链接（注销）
-    repository = "https://github.com/i-kirito"
+    # repository = "https://github.com/i-kirito"
 
     # 是否启用网站加载前的预加载动画
     enablePreLoad = true
